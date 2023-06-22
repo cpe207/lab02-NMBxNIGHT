@@ -1,0 +1,21 @@
+p {
+  text-align: center;
+  color: black;
+  font-size: 20px;
+}
+
+h2 {
+  text-align: center;
+  color: black;
+}
+
+.Textbox {
+  border: solid;
+  color: rgb(79, 40, 7);
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+  width: fit-content;
+  padding-left: 30px;
+  padding-right: 30px;
+}
