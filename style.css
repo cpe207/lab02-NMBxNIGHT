@@ -10,7 +10,7 @@ h2 {
 }
 
 .Textbox {
-  border: solid;
+  border: solid 3px;
   color: rgb(79, 40, 7);
   margin-left: auto;
   margin-right: auto;
@@ -18,4 +18,5 @@ h2 {
   width: fit-content;
   padding-left: 30px;
   padding-right: 30px;
+  border-radius: 50px;
 }
